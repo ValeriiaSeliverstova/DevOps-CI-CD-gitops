@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: 143536904714.dkr.ecr.us-west-2.amazonaws.com/goit-ecr
-  tag: latest
+  tag: 8-bb0087a1
   pullPolicy: Always
 
 service:
