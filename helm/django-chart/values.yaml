@@ -55,4 +55,4 @@ config:
   ALLOWED_HOSTS: "*"
 
 secret:
-  POSTGRES_PASSWORD: ""
+  POSTGRES_PASSWORD: "postgres123"
